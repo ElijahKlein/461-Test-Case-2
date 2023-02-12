@@ -1,5 +1,7 @@
 # 461-Test-Case-3
 
+MIT License
+
 For testing purposes, ChatGPT was asked to creat a GitHub Repository. Here are the results:
 
 I'm sorry, as a language model AI, I don't have the ability to create a GitHub repository for you. However, I can guide you on how to create one yourself:
